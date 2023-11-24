@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, i'm Farhan Riyandi 👋 👨🏻‍💻
 
 <!--
 **farhanriyandi/farhanriyandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a recent graduate with a passion for machine learning and data science. My educational background includes a bachelor's degree  from Esa Unggul University. Throughout my studies, I cultivated a robust understanding of fundamental concepts in machine learning, statistics, and data processing.
+
+Skills
+* Data Processing: Experience in cleaning and analyzing data using tools such as Python and pandas.
+* Machine Learning: In-depth knowledge of machine learning algorithms, including classification, regression, and clustering.
+* Python Development: Strong programming skills in Python for the implementation and experimentation of machine learning models.
+* Data Visualization: Ability to present analysis results clearly using libraries such as Matplotlib or Seaborn.

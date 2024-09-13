@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a recent graduate with a passion for machine learning and data science. My educational background includes a bachelor's degree  from Esa Unggul University. Throughout my studies, I cultivated a robust understanding of fundamental concepts in machine learning, statistics, and data processing.
+I am a recent graduate with a passion for data engineer, machine learning and data science. My educational background includes a bachelor's degree  from Esa Unggul University. Throughout my studies, I cultivated a robust understanding of fundamental concepts in machine learning, statistics, and data processing.
 
 Skills
 * Data Processing: Experience in cleaning and analyzing data using tools such as Python and pandas.
